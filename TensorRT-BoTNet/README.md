@@ -3,7 +3,7 @@
 BoTNet architecture from
      "Searching for BoTNet" <https://arxiv.org/abs/2101.11605>.
 
-For the Pytorch implementation, you can refer to [EfficientNet.pytorch](https://github.com/lukemelas/EfficientNet-PyTorch)
+For the Pytorch implementation, you can refer to [BoTNet.pytorch](https://github.com/leaderj1001/BottleneckTransformers)
 
 ## Run
 
